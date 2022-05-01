@@ -85,6 +85,7 @@ You will also notice that I have added 3 new fields:
     - pdfSection - The relevant section within the PDF, if matched - for validation purposes.
         - Note: The idea here is to be able to quickly filter down based on that section.
 
+
       {
           "data": {
               "relation": "EVENT_READ_SOCKET_PARAMS",
