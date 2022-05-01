@@ -2,6 +2,8 @@
 
 #### April 2022 ** Updated 30/04/2022 1:31 AM **
 
+![img_1.png](img_1.png)
+
 ## Scope
 
 #### Client Description
@@ -80,9 +82,8 @@ You will also notice that I have added 3 new fields:
 
 - RecordUid - This gives each record it's own specific UID, to be used as a Primary Key if loaded to a database.
 - Source - The source file that this processed chunk is from.
-  - pdfSection - The relevant section within the PDF, if matched - for validation purposes.
-      - Note: The idea here is to be able to quickly filter down based on that section.
-
+    - pdfSection - The relevant section within the PDF, if matched - for validation purposes.
+        - Note: The idea here is to be able to quickly filter down based on that section.
 
       {
           "data": {
