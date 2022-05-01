@@ -1,0 +1,1228 @@
+{
+	"3.2" : [
+		{
+			"obj.n_attrbiute.remoteAddress" : "145.199.103.57",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "61.130.69.232",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "2.233.33.53",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "145.199.103.57",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8010
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "61.130.69.232",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8011
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "2.233.33.52",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8012
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "180.156.107.146",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8013
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "5.214.163.155",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8014
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "2.233.33.53",
+			"obj.n_attrbiute.remoteAddress" : "208.75.117.2"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "2.233.33.53"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "elevate /home/admin/cache"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "elevate /home/admin/cache"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "elevate drakon"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "elevate drakon"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "Left L3 connection open"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "Left L3 connection open"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "putfile ./deploy/archive/drakon.linux.x64_180.156.107.146 /home/admin/cache"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "putfile ./deploy/archive/drakon.linux.x64_180.156.107.146 /home/admin/cache"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "putfile ./deploy/archive/libdrakon.linux.x64.so_5.214.163.155 /var/log/xtmp"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "putfile ./deploy/archive/libdrakon.linux.x64.so_5.214.163.155 /var/log/xtmp"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "putfile ./deploy/archive/libdrakon.linux.x64.so_5.214.163.155 xtmp"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "putfile ./deploy/archive/libdrakon.linux.x64.so_5.214.163.155 xtmp"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "quit L1"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "quit L1"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "quit L2"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "quit L2"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "Received 2 connections to the OC2"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "Received 2 connections to the OC2"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "180.156.107.146"
+		}
+	],
+	"3.3" : [
+		{
+			"subj.uuid" : "AC061100-0000-0000-0000-000000000020"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "161.116.88.72",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "7.149.198.40",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "145.199.103.57",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "61.130.69.232",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "146.153.68.151",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "141.43.176.203",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "104.228.117.212",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "145.199.103.57",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8010
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "61.130.69.232",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8011
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "5.214.163.155",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8014
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "161.116.88.72",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8016
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "146.153.68.151",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8017
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "104.228.117.212",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8018
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "141.43.176.203",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8019
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "7.149.198.40",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8028
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "admin@ta1-theia-target:~$ ps -aux | grep firefox"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "admin@ta1-theia-target:~$ ps -aux | grep firefox"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "admin@ta1-theia-target:~$ sudo kill -9 5771"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "admin@ta1-theia-target:~$ sudo kill -9 5771"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "connect back"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "connect back"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "drakon"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "drakon"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "elevate /home/admin/clean"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "elevate /home/admin/clean"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "elevate /home/admin/profile"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "elevate /home/admin/profile"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "elevate clean"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "elevate clean"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "Left connection L5 in OC2 open"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "Left connection L5 in OC2 open"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "lost connection"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "lost connection"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "putfile ./deploy/archive/drakon.linux.x64_161.116.88.72 /home/admin/profile"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "putfile ./deploy/archive/drakon.linux.x64_161.116.88.72 /home/admin/profile"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "putfile ./deploy/archive/drakon.linux.x64_161.116.88.72 clean"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "putfile ./deploy/archive/drakon.linux.x64_161.116.88.72 clean"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "putfile ./deploy/archive/libdrakon.linux.x64.so_5.214.163.155 xdev"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "putfile ./deploy/archive/libdrakon.linux.x64.so_5.214.163.155 xdev"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "putfile /var/log/xdev",
+			"obj.n_attrbiute.cmdline" : "putfile /var/log/xdev"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "putfile clean"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "putfile clean"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "putfile profile"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "putfile profile"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "quit"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "quit"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "rm clean"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "rm clean"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "rm profile"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "rm profile"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "Shell from THEIA"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "Shell from THEIA"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "www.gatech.edu"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "www.gatech.edu"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "www.gatech.edu"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "www.gatech.edu"
+		}
+	],
+	"3.4" : [],
+	"3.5" : [
+		{
+			"obj.n_attrbiute.remoteAddress" : "193.189.212.26",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "27.56.56.211",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "179.252.65.246",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8020
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "198.148.89.255",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8021
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "16.54.116.146",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8022
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "156.78.147.114",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8025
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "193.189.212.26",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8026
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "27.56.56.211",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8027
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "156.78.147.114",
+			"obj.n_attrbiute.remoteAddress" : "2.233.33.53"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "156.78.147.114"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cat Document.rtf"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "cat Document.rtf"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cat Freight_info.rtf"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "cat Freight_info.rtf"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cat Happy_hunting.rtf"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "cat Happy_hunting.rtf"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cat hosts"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "cat hosts"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cat networks"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "cat networks"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cat services"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "cat services"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "getfile Covert.xlsx"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "getfile Covert.xlsx"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "getfile Missledefence.doc"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "getfile Missledefence.doc"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "getfile Targeting_system.rtf"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "getfile Targeting_system.rtf"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "nrtcp netrecon 1"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "nrtcp netrecon 1"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "nrtcp netrecon 2"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "nrtcp netrecon 2"
+		},
+		{
+		},
+		{
+		},
+		{
+		},
+		{
+		}
+	],
+	"3.10" : [],
+	"3.11" : [
+		{
+			"obj.n_attrbiute.remoteAddress" : "141.43.176.203",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "104.228.117.212",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "141.43.176.203",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "104.228.117.212",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "5.214.163.155",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8014
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "146.153.68.151",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8017
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "104.228.117.212",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8018
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "141.43.176.203",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8019
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "149.52.198.23",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8060
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cp /var/log/xdev wdev"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "cp /var/log/xdev wdev"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cp xdev wdev"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "cp xdev wdev"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "elevate /var/log/mail"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "elevate /var/log/mail"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "elevate /var/log/mail",
+			"obj.n_attrbiute.remoteAddress" : "149.52.198.23"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "elevate /var/log/mail"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "inject"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "inject"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "inject /tmp/memtrace.so 1226 (failed)"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "inject /tmp/memtrace.so 1226 (failed)"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "inject /tmp/memtrace.so 13776 (failed)"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "inject /tmp/memtrace.so 13776 (failed)"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "inject /tmp/memtrace.so 14204 (failed)"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "inject /tmp/memtrace.so 14204 (failed)"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "inject /tmp/memtrace.so 14228 (failed)"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "inject /tmp/memtrace.so 14228 (failed)"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "inject /var/log/wdev 1226"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "inject /var/log/wdev 1226"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "inject /var/log/wdev 1226 (failed)"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "inject /var/log/wdev 1226 (failed)"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "inject /var/log/xdev 1226"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "inject /var/log/xdev 1226"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "inject /var/log/xdev 1226 (failed)"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "inject /var/log/xdev 1226 (failed)"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "log"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "log"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "ps"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "ps"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "putfile ./deploy/archive/libdrakon.linux.x64.so_5.214.163.155 memtrace.so"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "putfile ./deploy/archive/libdrakon.linux.x64.so_5.214.163.155 memtrace.so"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "putfile ./deploy/archive/microapt.linux.x64_149.52.198.23 mail"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "putfile ./deploy/archive/microapt.linux.x64_149.52.198.23 mail"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "putfile /tmp/memtrace.so"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "putfile /tmp/memtrace.so"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "putfile /var/log/mail (micro)"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "putfile /var/log/mail (micro)"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "quit"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "quit"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "rm mail"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "rm mail"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "rm mail"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "rm mail"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "rm wdev"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "rm wdev"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "rm xdev"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "rm xdev"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "root"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "root"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "whoami"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "whoami"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "www.gatech.edu"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "www.gatech.edu"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "www.gatech.edu"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "www.gatech.edu"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "xdev"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "xdev"
+		},
+		{
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "146.153.68.151"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.73"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.67"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.67"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.141"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.141"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.110"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.110"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.110"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.67"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.55"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.166"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.141"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.141"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.141"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.118"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.110"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.110"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.110"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.10"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.1"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "146.153.68.151"
+		}
+	],
+	"3.12" : [
+		{
+			"obj.n_attrbiute.localAddress" : "145.199.103.57",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8010
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "104.228.117.212",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8018
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "Firefox"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "Firefox"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "www.allstate.com"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "www.allstate.com"
+		}
+	],
+	"3.15" : [
+		{
+			"obj.n_attrbiute.localAddress" : "145.199.103.57",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8010
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "61.130.69.232",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8011
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "2.233.33.52",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8012
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "180.156.107.146",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8013
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "5.214.163.155",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8014
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "45.26.25.240",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8015
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "161.116.88.72",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8016
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "146.153.68.151",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8017
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "104.228.117.212",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8018
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "141.43.176.203",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8019
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "149.52.198.23",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8060
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "162.66.239.75",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8061
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "17.146.0.252",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8064
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "1 root (sshd)",
+			"obj.n_attrbiute.remoteAddress" : "156.78.147.114"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "1 root (sshd)"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "allstate.com"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "allstate.com"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "elevate ztmp"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "elevate ztmp"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "execfile"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "execfile"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "micro"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "micro"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "micro"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "micro"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "netrecon 8064"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "netrecon 8064"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "ps"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "ps"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "rm /tmp/ztmp"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "rm /tmp/ztmp"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "shell L1"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "shell L1"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "ztmp"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "ztmp"
+		}
+	],
+	"4.4": [],
+	"4.5" : [
+		{
+			"obj.n_attrbiute.remoteAddress" : "62.83.155.175",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "62.83.155.175",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8007
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "208.75.117.2",
+			"obj.n_attrbiute.remoteAddress" : "208.75.117.2"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "208.75.117.2"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "208.75.117.3",
+			"obj.n_attrbiute.remoteAddress" : "208.75.117.3"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "208.75.117.3"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "everyone@bovia.com"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "everyone@bovia.com"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "208.75.117.3"
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "208.75.117.3",
+			"obj.n_attrbiute.localPort" : 80
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "208.75.117.2",
+			"obj.n_attrbiute.localPort" : 80
+		}
+	],
+	"4.6" : [
+		{
+			"obj.n_attrbiute.remoteAddress" : "62.83.155.175",
+			"obj.n_attrbiute.remotePort" : 80
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "62.83.155.175",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8007
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "208.75.117.2",
+			"obj.n_attrbiute.remoteAddress" : "208.75.117.3"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "208.75.117.2"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "208.75.117.3"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "208.75.117.3"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "click"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "click"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "everyone@bovia.com"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "everyone@bovia.com"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "208.75.117.3"
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "208.75.117.3",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "208.75.117.3"
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "208.75.117.2",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "208.75.117.2"
+		}
+	],
+	"4.8" : [
+		{
+			"subj.n_attrbiute.cmdline" : "missing library"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "missing library"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "run it"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "run it"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "tcexec"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "tcexec"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "tcexec"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "tcexec"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "tcexec"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "tcexec"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "tcexec file downloaded to disk from e-mail"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "tcexec file downloaded to disk from e-mail"
+		}
+	],
+	"4.9" : [
+		{
+			"obj.n_attrbiute.localAddress" : "162.66.239.75",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8061
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "103.12.253.24",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8065
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "207.103.191.4",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8069
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "207.103.191.4",
+			"obj.n_attrbiute.localPort" : 80,
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : 8069
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "Micro APT C2"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "Micro APT C2"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "207.103.191.4:80",
+			"obj.n_attrbiute.localAddress" : "207.103.191.4",
+			"obj.n_attrbiute.localPort" : 80
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "207.103.191.4:80"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "207.103.191.4:80",
+			"obj.n_attrbiute.localAddress" : "207.103.191.4",
+			"obj.n_attrbiute.localPort" : 80
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "207.103.191.4:80"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "03.12.253.24:80",
+			"obj.n_attrbiute.localAddress" : "03.12.253.24",
+			"obj.n_attrbiute.localPort" : 80
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "03.12.253.24:80"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "tcexec"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "tcexec"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "tcexec"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "tcexec"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "tcexec"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "tcexec"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "missing library"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "missing library"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "micro apt quit"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "micro apt quit"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "apt"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "apt"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "apt"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "apt"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "tcexec",
+			"obj.n_attrbiute.localPort" : 8061
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "tcexec"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "tcexfil file written to tmp directory"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "tcexfil file written to tmp directory"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "tcexec file downloaded to disk"
+		},
+		{
+			"obj.n_attrbiute.cmdline" : "tcexec file downloaded to disk"
+		}
+	]
+}
