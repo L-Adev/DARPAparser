@@ -380,7 +380,103 @@
 			"obj.n_attrbiute.cmdline" : "www.gatech.edu"
 		}
 	],
-	"3.4" : [],
+	"3.4" : [
+		{
+			"obj.n_attrbiute.localAddress" : "27.56.56.211",
+			"obj.n_attrbiute.localPort" : "80",
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : "8027"
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "193.189.212.26",
+			"obj.n_attrbiute.localPort" : "80",
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : "8026"
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "179.252.65.246",
+			"obj.n_attrbiute.localPort" : "80",
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : "8020"
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "16.54.116.146",
+			"obj.n_attrbiute.localPort" : "80",
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : "8022"
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "156.78.147.114",
+			"obj.n_attrbiute.localPort" : "80",
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : "8025"
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "193.189.212.26",
+			"obj.n_attrbiute.localPort" : "80"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "179.252.65.246",
+			"obj.n_attrbiute.remotePort" : "80"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "16.54.116.146",
+			"obj.n_attrbiute.remotePort" : "80"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "156.78.147.114",
+			"obj.n_attrbiute.remotePort" : "80"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cnpc.com.cn"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cnpc.com.cn"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "netrecon exfil",
+			"obj.n_attrbiute.localAddress" : "193.189.212.26",
+			"obj.n_attrbiute.localPort" : "80"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "nrudp",
+			"obj.n_attrbiute.localAddress" : "27.56.56.211",
+			"obj.n_attrbiute.localPort" : "80"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cat trains.rtf"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cat hosts"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "getfile trains.docx"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "getfile test.docx"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "getfile Missledefence.doc"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "getfile Covert.xlsx"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cat MissleAlert.rtf"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cat malicious.rtf"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cat locomotives.rtf"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cat locomotives.rtf"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "cat Document.rtf"
+		}
+	],
 	"3.5" : [
 		{
 			"obj.n_attrbiute.remoteAddress" : "193.189.212.26",
@@ -508,7 +604,36 @@
 		{
 		}
 	],
-	"3.10" : [],
+	"3.1" : [
+		{
+			"obj.n_attrbiute.localAddress" : "221.205.132.182",
+			"obj.n_attrbiute.localPort" : "80",
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : "8052"
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "135.84.161.202",
+			"obj.n_attrbiute.localPort" : "80",
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : "8051"
+		},
+		{
+			"obj.n_attrbiute.localAddress" : "132.85.63.248",
+			"obj.n_attrbiute.localPort" : "80",
+			"obj.n_attrbiute.remoteAddress" : "128.55.12.167",
+			"obj.n_attrbiute.remotePort" : "8050"
+		},
+		{
+			"obj.n_attrbiute.remoteAddress" : "135.84.161.202",
+			"obj.n_attrbiute.remotePort" : "80"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "allstate.com"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "allstate.com"
+		}
+	],
 	"3.11" : [
 		{
 			"obj.n_attrbiute.remoteAddress" : "141.43.176.203",
@@ -976,7 +1101,50 @@
 			"obj.n_attrbiute.cmdline" : "ztmp"
 		}
 	],
-	"4.4": [],
+	"4.4" : [
+		{
+			"obj.n_attrbiute.remoteAddress" : "208.75.117.5"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "python -m SimpleHTTPServer 2525 (208.75.117.5 80)"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "nc -l 2526"
+		},
+		{
+			"obj.n_attrbiute.filepath" : "BoviaBenefitsOE.xlsm"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "update.ps1"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "C:\\Users\\admin>type C:\\windows\\system32\\drivers\\etc\\hosts"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "C:\\Users\\admin\\Documents>type trains.rtf"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "C:\\Users\\admin\\Documents>type MissleAlert.rtf"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "C:\\Users\\admin\\Documents>type Document.rtf"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "C:\\Users\\admin\\Documents>rmdir mydocs"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "C:\\Users\\admin\\Documents>mkdir mydocs"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "BoviaBenefitsOE.xlsm"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "C:\\Users\\admin\\Desktop>del BoviaBenefitsOE.xlsm"
+		},
+		{
+			"subj.n_attrbiute.cmdline" : "C:\\Users\\admin\\Desktop>taskkill /PID 8744 /F"
+		}
+	],
 	"4.5" : [
 		{
 			"obj.n_attrbiute.remoteAddress" : "62.83.155.175",
