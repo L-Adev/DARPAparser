@@ -170,4 +170,11 @@ if __name__ == '__main__':
 	print('')
 	timestamps = setupTimestamps(traceTimestamps)
 	jsonLib = input("Please input the location of your JSON files: ")
+	getTimestamps = input("Which event log? (options: 5D, THEIA, TRACE): ")
+	if getTimestamps.lower() == "5d":
+		timestamps = setupTimestamps(fivedTimestamps)
+	if getTimestamps.lower() == "theia":
+		timestamps = setupTimestamps(theiaTimestamps)
+	if getTimestamps.lower() == "trace":
+		timestamps = setupTimestamps(traceTimestamps)
 	parseFiles(jsonLib, 10000, timestamps)  # The 10000 here indicates the chunk size for the program to read. Lower it if your computer cannot handle 10,000 (or raise it)
